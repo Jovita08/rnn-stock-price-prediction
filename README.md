@@ -41,8 +41,8 @@ Make Predictions and plot the graph with the Actual and Predicted values.
 
 ## PROGRAM
 
-                  NAME   : EZHILMATHI.R
-                  REG NO : 212221240062s
+                  NAME   : VIRGIL JOVITA.A
+                  REG NO : 212221240062
  
 ```python
 import numpy as np
