@@ -1,20 +1,22 @@
+### EX NO : 05
+### DATE  : 
 # Stock Price Prediction
 
-## AIM
+## AIM :
 
 To develop a Recurrent Neural Network model for stock price prediction.
 
-## Problem Statement and Dataset
+## Problem Statement and Dataset:
 Develop a Recurrent Neural Network model for stock price prediction using the stock prediction dataset.
 
 Here we have taken the price of google stock dataset
 
 
-## Neural Network Model
+## Neural Network Model:
 
 ![output](exp5.png)
 
-## DESIGN STEPS
+## DESIGN STEPS :
 
 ### STEP 1:
 Read the csv file and create the Data frame using pandas.
@@ -39,11 +41,10 @@ Make Predictions and plot the graph with the Actual and Predicted values.
 
 
 
-## PROGRAM
-
-                  NAME   : VIRGIL JOVITA.A
-                  REG NO : 212221240062
- 
+## PROGRAM :
+Developed By: **Virgil Jovita.A**
+<br/>
+Register Number: **212221240062**
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
@@ -117,7 +118,7 @@ plt.show()
 
 ```
 
-## OUTPUT
+## OUTPUT :
 
 ### True Stock Price, Predicted Stock Price vs time
 
@@ -125,5 +126,5 @@ plt.show()
 ### Mean Square Error
 
 ![output](5.png)
-## RESULT
+## RESULT :
 Thus, we have successfully created a Simple RNN model for Stock Price Prediction.
